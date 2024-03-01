@@ -1,0 +1,22 @@
+{
+  "name": "javascript-todo-list-application",
+  "version": "1.0.0",
+  "description": "This JavaScript application allows users to manage their todos. It provides functions to add, remove, and display todos. Use this application to keep track of your tasks and organize your work efficiently.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elaine1015/JavaScript-Todo-List-Application"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1",
+    "python-data-analysis-script": "1.0.0"
+  }
+}
